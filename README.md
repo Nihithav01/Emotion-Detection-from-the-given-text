@@ -1,4 +1,4 @@
-# Real Time Emotion Detection(Currently Working)
+# Real Time Emotion Detection
 
 ### Emotion:
 It is a complex experience of consciousness, bodily sensation, and behavior that reflects the personal significance of a thing, an event, or a state of affairs.
